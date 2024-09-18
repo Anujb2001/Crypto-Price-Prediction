@@ -1,9 +1,10 @@
 # Cryptocurrency Price Prediction
-# Crypto Price Prediction
 
 ## Overview
 
 This project aims to predict cryptocurrency prices using various machine learning models. The goal is to develop an efficient and accurate prediction system that helps users make informed decisions in the volatile cryptocurrency market.
+### Blog
+https://anuj-bhardwaj.medium.com/machine-learning-models-for-crypto-price-prediction-2a4d30c01aa6
 
 ## Table of Contents
 - [Overview](#overview)
