@@ -12,7 +12,7 @@ This project aims to predict the future prices of various cryptocurrencies using
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/crypto-price-prediction.git
+   git clone [https://github.com/yourusername/crypto-price-prediction.git](https://github.com/Anujb2001/Crypto-Price-Prediction.git)
    cd crypto-price-prediction
 
 ### Prerequesites
